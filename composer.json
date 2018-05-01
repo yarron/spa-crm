@@ -1,0 +1,11 @@
+{
+    "require": {
+        "slim/slim": "^3.10.0",
+        "swiftmailer/swiftmailer" : "^6.0.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    }
+}
